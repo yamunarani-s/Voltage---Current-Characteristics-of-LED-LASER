@@ -53,7 +53,7 @@ Key points:
 ## Circuit diagram
 
 
-<img width="600" height="700" alt="LED" src="https://github.com/user-attachments/assets/63eb3148-1b18-48c6-9fc4-655e38172f32" />
+<img width="580" height="700" alt="LED" src="https://github.com/user-attachments/assets/63eb3148-1b18-48c6-9fc4-655e38172f32" />
 
 ---
 
